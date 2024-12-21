@@ -1,0 +1,36 @@
+{
+  "items" : [
+  {
+    "id": 1,
+    "name": "Hammer",
+    "type":"Tool",
+    "house_id":1,
+    "owner":1,
+    "location":5
+  },
+  {
+    "id": 2,
+    "name": "Soap",
+    "type":"Utility",
+    "house_id":1,
+    "owner":3,
+    "location":1
+  },
+  {
+    "id": 3,
+    "name": "TV",
+    "type":"Furniture",
+    "house_id":1,
+    "owner":3,
+    "location":3
+  },
+  {
+    "id": 4,
+    "name": "TV",
+    "type":"Furniture",
+    "house_id":1,
+    "owner":1,
+    "location":3
+  }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "users" : [
+  {
+    "id": 1,
+    "username": "guy1",
+    "email": "random1@gmail.com",
+    "houses": [1]
+  },
+  {
+    "id": 2,
+    "username": "guy2",
+    "email": "random2@gmail.com",
+    "houses": [2, 3]
+  },
+  {
+    "id": 3,
+    "username": "guy3",
+    "email": "random3@gmail.com",
+    "houses": [1]
+  }
+  ]
+}

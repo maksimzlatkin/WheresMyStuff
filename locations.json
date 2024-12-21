@@ -1,0 +1,32 @@
+{
+  "location" : [
+  {
+    "id": 1,
+    "name": "master bathroom",
+    "type":"Bathroom",
+    "house_id":1,
+    "parent_location": null
+  },
+  {
+    "id": 2,
+    "name": "master bedroom",
+    "type":"Bedroom",
+    "house_id":1,
+    "parent_location": null
+  },
+  {
+    "id": 3,
+    "name": "main room",
+    "type":"Living Room",
+    "house_id":1,
+    "parent_location": null
+  },
+  {
+    "id": 4,
+    "name": "kitchen",
+    "type":"Kitchen",
+    "house_id":1,
+    "parent_location": null
+  }
+  ]
+}
